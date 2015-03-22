@@ -1,5 +1,5 @@
 #neonwave
-A sort of Vaporwave-esque syntax highlighting for Vim. 
+A *very* retro styled syntax highlighting for our beloved editor, "The Vim." 
 It looks best using [justinmk's vim-syntax-extras](https://github.com/justinmk/vim-syntax-extra)!
 
 
