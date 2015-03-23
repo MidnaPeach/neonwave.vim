@@ -36,7 +36,6 @@ if v:version >= 700
 endif
 
 
-
 hi Boolean           ctermfg=45    ctermbg=NONE   cterm=NONE
 hi Cursor            ctermfg=66    ctermbg=15     cterm=NONE
 hi Constant          ctermfg=33    ctermbg=NONE   cterm=bold
@@ -73,15 +72,13 @@ hi PMenu             ctermfg=36    ctermbg=233    cterm=NONE
 hi PMenuSel          ctermfg=75    ctermbg=235    cterm=NONE
 hi PMenuSbar         ctermfg=NONE  ctermbg=232    cterm=NONE
 hi PMenuThumb        ctermfg=NONE  ctermbg=237    cterm=NONE
-hi MoreMsg           ctermfg=46    ctermbg=NONE   cterm=bold
-hi PMenuSel          ctermfg=75    ctermbg=235    cterm=NONE
 hi PreCondit         ctermfg=201   ctermbg=NONE   cterm=NONE
+hi PreProc           ctermfg=63    ctermbg=NONE   cterm=NONE
 hi pythonFunction    ctermfg=38    ctermbg=NONE   cterm=NONE
 hi pythonException   ctermfg=231   ctermbg=1      cterm=NONE
 hi pythonEscape      ctermfg=201   ctermbg=NONE   cterm=NONE
 hi pythonStatement   ctermfg=45    ctermbg=NONE   cterm=bold
 hi Question          ctermfg=46    ctermbg=NONE   cterm=bold
-hi PreProc           ctermfg=63    ctermbg=NONE   cterm=NONE
 hi Repeat            ctermfg=201   ctermbg=NONE   cterm=bold
 hi Search            ctermfg=232   ctermbg=33     cterm=NONE
 hi SignColumn        ctermfg=46    ctermbg=234    cterm=NONE
