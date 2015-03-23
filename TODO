@@ -13,6 +13,7 @@ DiffDelete
 DiffText
 FoldColumn
 Folded
+Ignore
 SpellCap     # YCM says this is also for YcmWarningSection, 
              # but I do not extensively use YCM to notice where this lies.
 SpellRare
@@ -24,4 +25,5 @@ MatchParen   # This one exists, however I'm not *quite* sure how I want it.
 
 
 #######
-Most of these, if not all, I am either only vaguely familiar with.
+Most of these, if not all, I am either only vaguely familiar with. There are others I am leaving out,
+I just don't know what all would be wanted/needed.
