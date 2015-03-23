@@ -1,0 +1,19 @@
+Add colours for the following:
+
+CursorColumn # I personally do not use this, however I am certain others will.
+             # May as well just make it the same as CursorLine?
+Cursor
+DiffAdd
+DiffChange
+DiffDelete
+DiffText
+FoldColumn
+Folded
+SpellCap     # YCM says this is also for YcmWarningSection, 
+             # but I do not extensively use YCM to notice where this lies.
+SpellRare
+SpellLocal
+WildMenu
+VisualNOS
+
+MatchParen   # This one exists, however I'm not *quite* sure how I want it.
