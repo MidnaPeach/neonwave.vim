@@ -1,5 +1,9 @@
 Add colours for the following:
 
+#
+# All of the GUI syntax for gVim!! One day..
+#
+
 CursorColumn # I personally do not use this, however I am certain others will.
              # May as well just make it the same as CursorLine?
 Cursor
@@ -17,3 +21,4 @@ WildMenu
 VisualNOS
 
 MatchParen   # This one exists, however I'm not *quite* sure how I want it.
+
