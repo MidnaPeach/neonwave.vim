@@ -3,15 +3,11 @@
 "
 " Name:               NeonWave
 " Author:             SacredCrumb
-" Date:               22-03-15 
-" Initial Conception: 02-22-15
-"
 "
 " Just as a side note, themes like these are generally what happens
 " when you go off on Vaporwave binges >.>
-
-
-
+"
+"
 " Huge, HUGE thank you to ByteFluent for the creation of Vivify!!
 " Without this site it would have been far more troublesome to
 " get a working theme going, as well as the inertia to get going.
@@ -21,12 +17,15 @@
 " http://bytefluent.com/vivify 
 
 
-" I'm sure this will work for *most* Vim versions below 7.0,
-" but I can't be sure. Feel free to experiment!
+
+" I'm sure this will work for *most* (or all?) Vim versions below 7.0,
+" or even 7.3; I just have 7.0 as the lowest possible version.
+" I can't be sure. I am by no means a v[i]teran x3
 if v:version >= 700
 	if exists("syntax_on")
 		set t_Co=256
-		set background=dark
+		
+		
 		syntax reset
 		hi clear
 		let g:colors_name = "neonwave"
