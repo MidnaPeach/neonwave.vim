@@ -21,8 +21,8 @@
 " http://bytefluent.com/vivify 
 
 
-" I'm sure this theme will work for *some* Vim versions below 7.0,
-" but I can't be sure.
+" I'm sure this will work for *most* Vim versions below 7.0,
+" but I can't be sure. Feel free to experiment!
 if v:version >= 700
 	if exists("syntax_on")
 		set t_Co=256
