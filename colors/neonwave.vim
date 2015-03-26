@@ -23,9 +23,8 @@
 " I can't be sure. I am by no means a v[i]teran x3
 if v:version >= 700
 	if exists("syntax_on")
-		set t_Co=256
-		
-		
+		" Uncomment if needed
+		" set t_Co=256
 		syntax reset
 		hi clear
 		let g:colors_name = "neonwave"
