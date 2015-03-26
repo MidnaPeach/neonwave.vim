@@ -95,7 +95,7 @@ hi TabLine           ctermfg=105   ctermbg=234    cterm=NONE
 hi TabLineFill       ctermfg=105   ctermbg=236    cterm=NONE
 hi TabLineSel        ctermfg=32    ctermbg=233    cterm=bold
 hi Title             ctermfg=201   ctermbg=NONE   cterm=NONE
-hi Todo              ctermfg=201   ctermbg=233    cterm=bold
+hi Todo              ctermfg=231   ctermbg=201    cterm=bold
 hi Type              ctermfg=45    ctermbg=NONE   cterm=bold
 hi Typedef           ctermfg=45    ctermbg=NONE   cterm=bold
 hi Underlined        ctermfg=231   ctermbg=239    cterm=underline
