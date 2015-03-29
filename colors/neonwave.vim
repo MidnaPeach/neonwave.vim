@@ -53,8 +53,8 @@ hi Define            ctermfg=61    ctermbg=NONE   cterm=NONE
 hi DefinedName       ctermfg=200   ctermbg=NONE   cterm=NONE
 hi Delimiter         ctermfg=207   ctermbg=NONE   cterm=NONE
 hi Directory         ctermfg=45    ctermbg=NONE   cterm=bold
-hi Error             ctermfg=196   ctermbg=232    cterm=NONE
-hi ErrorMsg          ctermfg=196   ctermbg=232    cterm=NONE
+hi Error             ctermfg=196   ctermbg=232    cterm=bold
+hi ErrorMsg          ctermfg=196   ctermbg=232    cterm=bold
 hi Exception         ctermfg=201   ctermbg=NONE   cterm=bold
 hi Float             ctermfg=37    ctermbg=NONE   cterm=NONE
 hi Function          ctermfg=38    ctermbg=NONE   cterm=NONE
@@ -66,7 +66,7 @@ hi Label             ctermfg=201   ctermbg=NONE   cterm=bold
 hi LineNr            ctermfg=36    ctermbg=233    cterm=NONE
 hi Macro             ctermfg=69    ctermbg=NONE   cterm=bold
 hi MatchParen        ctermfg=50    ctermbg=39     cterm=NONE
-hi ModeMsg           ctermfg=254   ctermbg=235    cterm=bold
+hi ModeMsg           ctermfg=46    ctermbg=232    cterm=bold
 hi MoreMsg           ctermfg=46    ctermbg=NONE   cterm=bold
 hi NonText           ctermfg=201   ctermbg=NONE   cterm=NONE
 hi Normal            ctermfg=105   ctermbg=234    cterm=NONE
@@ -87,7 +87,7 @@ hi pythonFunction    ctermfg=38    ctermbg=NONE   cterm=NONE
 hi pythonException   ctermfg=196   ctermbg=232    cterm=NONE
 hi pythonEscape      ctermfg=201   ctermbg=NONE   cterm=NONE
 hi pythonStatement   ctermfg=45    ctermbg=NONE   cterm=bold
-hi Question          ctermfg=46    ctermbg=NONE   cterm=bold
+hi Question          ctermfg=46    ctermbg=232    cterm=bold
 hi Repeat            ctermfg=201   ctermbg=NONE   cterm=bold
 hi Search            ctermfg=232   ctermbg=33     cterm=NONE
 hi SignColumn        ctermfg=46    ctermbg=234    cterm=NONE
