@@ -23,8 +23,15 @@
 " I can't be sure. I am by no means a v[i]teran x3
 if v:version >= 700
 	if exists("syntax_on")
-		" Uncomment if needed
-		" set t_Co=256
+		" Originally, I left this commented out for simplicity's sake 
+		" as it is not vital, but apparently "t_Co" is automatically set 
+		" to 8 if you open through the GUI.
+		" Meaning, Vim is set as your default editor. Or through a keyboard
+		" shortcut like ./x-terminal-emulator --command=vim
+		" (Oh, the irony.)
+		"
+		" If you do not need it then do with it as you wish.  
+		set t_Co=256
 		syntax reset
 		hi clear
 		let g:colors_name = "neonwave"
