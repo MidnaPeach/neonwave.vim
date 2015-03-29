@@ -53,8 +53,8 @@ hi Define            ctermfg=61    ctermbg=NONE   cterm=NONE
 hi DefinedName       ctermfg=200   ctermbg=NONE   cterm=NONE
 hi Delimiter         ctermfg=207   ctermbg=NONE   cterm=NONE
 hi Directory         ctermfg=45    ctermbg=NONE   cterm=bold
-hi Error             ctermfg=231   ctermbg=1      cterm=NONE
-hi ErrorMsg          ctermfg=231   ctermbg=1      cterm=NONE
+hi Error             ctermfg=196   ctermbg=232    cterm=NONE
+hi ErrorMsg          ctermfg=196   ctermbg=232    cterm=NONE
 hi Exception         ctermfg=201   ctermbg=NONE   cterm=bold
 hi Float             ctermfg=37    ctermbg=NONE   cterm=NONE
 hi Function          ctermfg=38    ctermbg=NONE   cterm=NONE
@@ -84,7 +84,7 @@ hi PMenuThumb        ctermfg=NONE  ctermbg=237    cterm=NONE
 hi PreCondit         ctermfg=201   ctermbg=NONE   cterm=NONE
 hi PreProc           ctermfg=63    ctermbg=NONE   cterm=NONE
 hi pythonFunction    ctermfg=38    ctermbg=NONE   cterm=NONE
-hi pythonException   ctermfg=231   ctermbg=1      cterm=NONE
+hi pythonException   ctermfg=196   ctermbg=232    cterm=NONE
 hi pythonEscape      ctermfg=201   ctermbg=NONE   cterm=NONE
 hi pythonStatement   ctermfg=45    ctermbg=NONE   cterm=bold
 hi Question          ctermfg=46    ctermbg=NONE   cterm=bold
@@ -95,7 +95,7 @@ hi Special           ctermfg=13    ctermbg=NONE   cterm=NONE
 hi SpecialChar       ctermfg=165   ctermbg=NONE   cterm=NONE
 hi SpecialComment    ctermfg=231   ctermbg=NONE   cterm=NONE
 hi SpecialKey        ctermfg=105   ctermbg=NONE   cterm=NONE
-hi SpellBad          ctermfg=231   ctermbg=1      cterm=bold
+hi SpellBad          ctermfg=196   ctermbg=232    cterm=bold
 hi StatusLine        ctermfg=32    ctermbg=232    cterm=bold
 hi StatusLineNC      ctermfg=105   ctermbg=236    cterm=bold
 hi Statement         ctermfg=201   ctermbg=NONE   cterm=bold
@@ -113,3 +113,4 @@ hi Underlined        ctermfg=231   ctermbg=239    cterm=underline
 hi VertSplit         ctermfg=105   ctermbg=236    cterm=NONE
 hi Visual            ctermfg=111   ctermbg=237    cterm=NONE
 hi WarningMsg        ctermfg=254   ctermbg=1      cterm=NONE
+
